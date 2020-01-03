@@ -1,2 +1,2 @@
-# magpal
+# Magpal
 Magpal Restauratie Zone
